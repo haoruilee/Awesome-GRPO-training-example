@@ -6,3 +6,4 @@ These are collected from
 - Qwen 0.5B https://colab.research.google.com/drive/1iMmNo0gdciYYr8EOOzvSRI9q_HsZQ76k
 - Deepseek-r1 1.5B https://www.kaggle.com/code/danielphalen/grpotrainer-deepseekr1
 - unsloth.ai's solution: https://docs.unsloth.ai/basics/reasoning-grpo-and-rl
+- KW-R1: A Simple Implementation of the GRPO Algorithm https://github.com/lsdefine/simple_GRPO
